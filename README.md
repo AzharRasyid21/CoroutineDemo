@@ -26,6 +26,9 @@ Implementasi tugas mata kuliah **Pengembangan Aplikasi Bergerak (Modul M17: Kotl
 <img width="383" height="856" alt="Screenshot 2026-11-24 195850" src="https://github.com/user-attachments/assets/4edc84df-55e3-440d-acbf-b8737ce5f924" />
 <img width="407" height="842" alt="Screenshot 2026-11-24 195831" src="https://github.com/user-attachments/assets/b899796f-7140-4e85-a27a-f36803e87dad" />
 <img width="390" height="861" alt="Screenshot 2026-11-24 195814" src="https://github.com/user-attachments/assets/eb713b18-6752-4e78-91b1-ffb96c2fac7c" />
+<img width="231" height="523" alt="Screenshot 2026-11-24 202144" src="https://github.com/user-attachments/assets/79ebb591-fcd5-46fd-82ce-a98e92d575d5" />
+<img width="232" height="512" alt="Screenshot 2026-11-24 202031" src="https://github.com/user-attachments/assets/dbb09ed0-ed05-4b0d-937a-8ec909995af1" />
+
 
 ## Struktur Proyek
 
