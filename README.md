@@ -36,3 +36,7 @@ com.example.coroutinedemo
 │   │   └── TasksScreen.kt      # Tampilan Jetpack Compose (State Hoisting)
 │   └── theme
 └── MainActivity.kt             # Entry point aplikasi
+<img width="469" height="216" alt="Screenshot 2026-11-24 200116" src="https://github.com/user-attachments/assets/ecd75f02-d78c-40aa-a879-cda4017bd77f" />
+<img width="383" height="856" alt="Screenshot 2026-11-24 195850" src="https://github.com/user-attachments/assets/685eccb8-dcbc-4ebf-8ac8-2fe1d0c7d2fc" />
+<img width="407" height="842" alt="Screenshot 2026-11-24 195831" src="https://github.com/user-attachments/assets/144fd652-aa6d-4d5b-8f15-2833eb88d9d2" />
+<img width="390" height="861" alt="Screenshot 2026-11-24 195814" src="https://github.com/user-attachments/assets/f197c772-e536-4d20-8a29-1f6ef444f2b4" />
