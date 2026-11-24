@@ -22,6 +22,11 @@ Implementasi tugas mata kuliah **Pengembangan Aplikasi Bergerak (Modul M17: Kotl
 
 ---
 
+<img width="469" height="216" alt="Screenshot 2026-11-24 200116" src="https://github.com/user-attachments/assets/45490a3e-2bf7-4dde-8d81-fad555264da5" />
+<img width="383" height="856" alt="Screenshot 2026-11-24 195850" src="https://github.com/user-attachments/assets/4edc84df-55e3-440d-acbf-b8737ce5f924" />
+<img width="407" height="842" alt="Screenshot 2026-11-24 195831" src="https://github.com/user-attachments/assets/b899796f-7140-4e85-a27a-f36803e87dad" />
+<img width="390" height="861" alt="Screenshot 2026-11-24 195814" src="https://github.com/user-attachments/assets/eb713b18-6752-4e78-91b1-ffb96c2fac7c" />
+
 ## Struktur Proyek
 
 ```text
@@ -36,7 +41,6 @@ com.example.coroutinedemo
 │   │   └── TasksScreen.kt      # Tampilan Jetpack Compose (State Hoisting)
 │   └── theme
 └── MainActivity.kt             # Entry point aplikasi
-<img width="469" height="216" alt="Screenshot 2026-11-24 200116" src="https://github.com/user-attachments/assets/ecd75f02-d78c-40aa-a879-cda4017bd77f" />
-<img width="383" height="856" alt="Screenshot 2026-11-24 195850" src="https://github.com/user-attachments/assets/685eccb8-dcbc-4ebf-8ac8-2fe1d0c7d2fc" />
-<img width="407" height="842" alt="Screenshot 2026-11-24 195831" src="https://github.com/user-attachments/assets/144fd652-aa6d-4d5b-8f15-2833eb88d9d2" />
-<img width="390" height="861" alt="Screenshot 2026-11-24 195814" src="https://github.com/user-attachments/assets/f197c772-e536-4d20-8a29-1f6ef444f2b4" />
+
+
+
